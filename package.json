@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "color-palette",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start --port 6789 --files \".\" --server"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}

@@ -6,8 +6,19 @@
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
-    <div id="app">
-      {{ message }}
+    <div id="app" class="app">
+      <h1 class="app__title">{{ title }}</h1>
+
+      <div class="palette" v-for="palette in palettes">
+        <h2 class="palette__title">{{ palette.title }}</h2>
+        <ul class="palette__list">
+          <li class="palette__item" v-for="color in palette.colors">
+            <div class="box" v-bind:style="{ backgroundColor: color.value }">
+              {{ color.value }}
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
 
     <!-- development version, includes helpful console warnings -->

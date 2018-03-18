@@ -4,10 +4,8 @@
     {
       "title": "Primary Colours",
       "colors": [
-        { "name": "White", "value": "#fff" },
         { "name": "Dark Blue", "value": "#002544" },
-        { "name": "AFL", "value": "#cf0a2c" },
-        { "name": "Highlight", "value": "#00cbf8" }
+        { "name": "AFL", "value": "#cf0a2c" }
       ]
     },
     {
@@ -26,6 +24,17 @@
         { "name": "Grey", "value": "#9aa7b2" },
         { "name": "Cloud", "value": "#e7eaee" },
         { "name": "Smoke", "value": "#f2f3f4" }
+      ]
+    },
+    {
+      "title": "Yellow through Blue Gradient",
+      "colors": [
+        { "name": "Yellow (960 < w)", "value": "#ecdb60" },
+        { "name": "Light Green (768 < w <= 960)", "value": "#a1cd73" },
+        { "name": "Mid Green (640 < w <= 768)", "value": "#6fb37a" },
+        { "name": "Teal (530 < w <= 640)", "value": "#3f9a82" },
+        { "name": "Dark Green (480 < w <= 530)", "value": "#427676" },
+        { "name": "Dark Blue (w <= 480)", "value": "#3b596a" }
       ]
     },
     {
@@ -49,17 +58,6 @@
         { "name": "SYD", "value": "#e31e30" },
         { "name": "WCE", "value": "#0d2240" },
         { "name": "WB", "value": "#003bb9" }
-      ]
-    },
-    {
-      "title": "Yellow through Blue Gradient",
-      "colors": [
-        { "name": "Yellow (960 < w)", "value": "#ecdb60" },
-        { "name": "Light Green (768 < w <= 960)", "value": "#a1cd73" },
-        { "name": "Mid Green (640 < w <= 768)", "value": "#6fb37a" },
-        { "name": "Teal (530 < w <= 640)", "value": "#3f9a82" },
-        { "name": "Dark Green (480 < w <= 530)", "value": "#427676" },
-        { "name": "Dark Blue (w <= 480)", "value": "#3b596a" }
       ]
     }
   ]

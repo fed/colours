@@ -59,6 +59,15 @@
         { "name": "WCE", "value": "#0d2240" },
         { "name": "WB", "value": "#003bb9" }
       ]
+    },
+    {
+      "title": "Smartline Colours",
+      "colors": [
+        { "name": "ReasonML Red", "value": "#db4d3f" },
+        { "name": "Pale Yellow", "value": "#f9ca5e" },
+        { "name": "Green", "value": "#3cca5e" },
+        { "name": "Blue", "value": "#056cc1" }
+      ]
     }
   ]
 }

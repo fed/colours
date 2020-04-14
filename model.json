@@ -68,6 +68,16 @@
         { "name": "Green", "value": "#3cca5e" },
         { "name": "Blue", "value": "#056cc1" }
       ]
+    },
+    {
+      "title": "Atlassian",
+      "colors": [
+        { "name": "Green", "value": "#36b37d"},
+        { "name": "Yellow", "value": "#ffc400" },
+        { "name": "Orange", "value": "#ff7453" },
+        { "name": "Purple", "value": "#6453c0" },
+        { "name": "Petrol Blue", "value": "#243857" }
+      ]
     }
   ]
 }

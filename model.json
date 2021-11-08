@@ -78,6 +78,15 @@
         { "name": "Purple", "value": "#6453c0" },
         { "name": "Petrol Blue", "value": "#243857" }
       ]
+    },
+    {
+      "title": "Greens",
+      "colors": [
+        { "name": "#1", "value": "#11994c"},
+        { "name": "#2", "value": "#4ead77" },
+        { "name": "#3", "value": "#1d6755" },
+        { "name": "#4", "value": "#bad2c4" }
+      ]
     }
   ]
 }

@@ -32,15 +32,13 @@ body {
   list-style-type: none;
   margin: 0;
   padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .palette__item {
-  display: inline-block;
   margin-bottom: 20px;
   margin-right: 20px;
-}
-
-.box {
   align-items: flex-end;
   border-radius: 4px;
   color: #fff;

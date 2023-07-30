@@ -88,6 +88,17 @@ const data = {
         { name: "Pale", value: "#bad2c4" },
       ],
     },
+    {
+      title: "Visual Studio Code",
+      colors: [
+        { name: "Black (light)", value: "#434343" },
+        { name: "Black (dark)", value: "#222223" },
+        { name: "Grey (light)", value: "#f3f3f3" },
+        { name: "Grey (dark)", value: "#e5e5e5" },
+        { name: "Blue (light)", value: "#007acc" },
+        { name: "Blue (dark)", value: "#0065a9" },
+      ],
+    },
   ],
 };
 

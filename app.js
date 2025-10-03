@@ -92,6 +92,25 @@ const data = [
       { name: "Black (dark)", value: "#222223" },
     ],
   },
+  {
+    title: "Miscellaneous",
+    colours: [
+      { name: "Light blue", value: "#D0E0F0" },
+      { name: "Bright blue", value: "#347DE8" },
+      { name: "Blue", value: "#387ADB" },
+      { name: "Navy", value: "#133C53" },
+      { name: "Forest green", value: "#234B38" },
+      { name: "Dark green", value: "#43800B" },
+      { name: "Green", value: "#77B255" },
+      { name: "Moss green", value: "#8DB44A" },
+      { name: "Light green", value: "#82B536" },
+      { name: "Pale green", value: "#B3DE72" },
+      { name: "Pale yellow", value: "#F9CA5E" },
+      { name: "Yellow", value: "#F6C342" },
+      { name: "Orange", value: "#FCA700" },
+      { name: "Red", value: "#ED615A" },
+    ],
+  },
 ];
 
 // Test to see if the browser supports the HTML template element by checking

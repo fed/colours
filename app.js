@@ -97,7 +97,9 @@ const data = [
     colours: [
       { name: "Light blue", value: "#D0E0F0" },
       { name: "Bright blue", value: "#347DE8" },
+      { name: "Mid blue", value: "#9EDCFA" },
       { name: "Blue", value: "#387ADB" },
+      { name: "Dark blue", value: "#7BC8F0" },
       { name: "Navy", value: "#133C53" },
       { name: "Forest green", value: "#234B38" },
       { name: "Dark green", value: "#43800B" },
